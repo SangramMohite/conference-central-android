@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.18.0-rc\880ad30d2b249a7591c195c2392646f1b146c139\google-http-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="880ad30d2b249a7591c195c2392646f1b146c139">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.18.0-rc_22f652e37d3d078b95d1b41fae58d0e32c52e117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="25111e9fe22aba39c8f6ba42473a774fb38fb5c7">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_871417c2388183d564a6465de581703e78366e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_2ec193dd45751c3eabcd070b07cde76bd566e679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6dc0ece51f4b6f3196bf1979a79b15378a6a2c4e">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87677be0afc767a0e1b74b279751f2a0ef8d2043\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_743efa0f890c9439d43d147cec4f770658c207c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.18.0-rc\45b0d00b78197d8a3047751443c09538117d188b\google-api-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="45b0d00b78197d8a3047751443c09538117d188b">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.18.0-rc_cf74895639bd6c460c7e513479e7e77e47153954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.18.0-rc\5a61d590275464895d783fb1612418964e20162e\google-api-client-android-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a61d590275464895d783fb1612418964e20162e">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.18.0-rc_74ed5e53fd8ef0074b30a6024e0ef12ec9e03d28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_ab70e2ec8c136902f9cdb95de89c9693990c8821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.5.87_f1e22ae1fa4803b005c02d7574b72404ab348846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_929ef02c3e1944371c567efe94b6a21d98faf13f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.18.0-rc\30281a66559f60a491748974ac17cec3483b873\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="030281a66559f60a491748974ac17cec3483b873">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.18.0-rc_28b3526cc9c1d3fdf88c1bd6a720e40d063fe0dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0.1\69e12f4c6aeac392555f1ea86fab82b5e5e31ad4\guava-14.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="69e12f4c6aeac392555f1ea86fab82b5e5e31ad4">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-14.0.1_040ccfa65eb59250472b07645d023b5923418504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\libs\conference-v1-1.22.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="976cde00d78aec0cd81882ddcb27aa4d92413feb">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\2\conference-v1-1.22.0-SNAPSHOT_70efe1b64c57f18e0135914bbba65bcafab6b60c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_fbfbb934fe4d0e138147e2fa92079a2721889357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.18.0-rc\cc519375a59b88327d65b79172798e7e6417bc78\google-http-client-android-1.18.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cc519375a59b88327d65b79172798e7e6417bc78">
+        <dex dex="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.18.0-rc_dc857f2bd33c53f03915834e2501f2e3ec2eea8f\classes.dex" />
+    </item>
+
+</items>

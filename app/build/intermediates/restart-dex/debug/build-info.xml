@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="3882913057450810"
+    token="5420022701336336656"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1831" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1028" />
+    <task
+        name="verifier"
+        duration="415" />
+
+    <artifact
+        location="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="3882913057450810"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Sangram\Documents\workspace\udacity\android\conference-central\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

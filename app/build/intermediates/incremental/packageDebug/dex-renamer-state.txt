@@ -1,0 +1,7 @@
+#Mon Feb 27 00:02:07 PST 2017
+base.0=C\:\\Users\\Sangram\\Documents\\workspace\\udacity\\android\\conference-central\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87677be0afc767a0e1b74b279751f2a0ef8d2043
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Sangram\\Documents\\workspace\\udacity\\android\\conference-central\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_871417c2388183d564a6465de581703e78366e67\\classes.dex
+base.1=C\:\\Users\\Sangram\\Documents\\workspace\\udacity\\android\\conference-central\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_871417c2388183d564a6465de581703e78366e67
+file.0=C\:\\Users\\Sangram\\Documents\\workspace\\udacity\\android\\conference-central\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87677be0afc767a0e1b74b279751f2a0ef8d2043\\classes.dex
